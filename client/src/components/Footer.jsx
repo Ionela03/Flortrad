@@ -1,8 +1,15 @@
 import React from 'react'
+import Logo from "../images/Vlog.png"
+
 const Footer = () => {
     return(
-        <div>Footer</div>
-    )
-}
+        <footer>
+            <img src={Logo} alt=""/>
+            <span>
+                Made with 🖤 and <b> React.js</b>.
+            </span>
+        </footer> 
+    );
+};
 
 export default Footer
