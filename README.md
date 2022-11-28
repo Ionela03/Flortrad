@@ -1,1 +1,1 @@
-# Flortrad will be an application for an blogsite
+# It's a vlog site
