@@ -1,5 +1,5 @@
 # It's a blog site
-A person can make posts and update and delete their own posts. 
+A person can make posts, update or delete their own posts. 
 All the posts are groupped by a category.
 As a database I used mysql2 and as a tehnology I used react js
 for start the application you neet to type in your terminal
